@@ -4,7 +4,7 @@
 
 ## Introduction
     
-In all projects Milestones serveas relevant management metrics, providing the means to define project priorities, monitor progress and tell an overarching story, in which status your project is. With this extension, you are able to show the distribution of your milestones over the project runtime.
+In all projects Milestones serve as relevant management metrics, providing the means to define project priorities, monitor progress and tell an overarching story, in which status your project is. With this extension, you are able to show the distribution of your milestones over the project runtime.
 
 In addition, you are able to display relevant information like name, date and a date deviation, e.g. plan to forecast or actual to forecast, to our needs. With the plan-to-forecast deviation comes a colour coding, that gives a direct visual trigger. Individual settings allow you to adapt the extension on the dashboard to your needs. 
 
