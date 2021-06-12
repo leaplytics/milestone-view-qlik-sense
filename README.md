@@ -1,6 +1,6 @@
 # LeapLytics Timeline – Extension for Qlik Sense
 
-![Milestone View](docs/milestone-view.PNG)
+![Timeline](docs/milestone-view.PNG)
 
 ## Introduction
     
@@ -17,7 +17,7 @@ In addition, you are able to display relevant information like name, date and a 
 ---
 ## Installation
 
-1.  Download the [“Milestone View Master”](https://github.com/leaplytics/milestone-view-qlik-sense/tree/master) repository from GitHub
+1.  Download the [“Timeline Master”](https://github.com/leaplytics/milestone-view-qlik-sense/tree/master) repository from GitHub
 
 2.  Unzip the downloaded file
 
@@ -29,7 +29,7 @@ Sense](https://help.qlik.com/en-US/sense-developer/November2020/Subsystems/Exten
 ## Getting Started
 
 
-Open Qlik Sense and the relevant app, where you want to use the “Milestone View” extension. Open your worksheet in edit mode and you will find the extension within the “Custom Objects” section. Drag and Drop the extension to any area on your dashboard (You can change the appearance of the extension later in the advanced settings). 
+Open Qlik Sense and the relevant app, where you want to use the “Timeline” extension. Open your worksheet in edit mode and you will find the extension within the “Custom Objects” section. Drag and Drop the extension to any area on your dashboard (You can change the appearance of the extension later in the advanced settings). 
 
 ![Drag and Drop](docs/drag-drop.gif)
 
@@ -56,7 +56,7 @@ After you have placed an instance of the extension to your dashboard, the follow
 
 ![Property Panel](docs/property-panel.PNG)
 
-In the following chapters, you will learn how to use LeapLytics “Milestone View” extension and how to customize it to your needs by using the properties correctly.
+In the following chapters, you will learn how to use LeapLytics “Timeline” extension and how to customize it to your needs by using the properties correctly.
 
 ### Dimensions
 ![Dimensions](docs/dimensions.PNG)
