@@ -1,4 +1,4 @@
-# LeapLytics Milestone View – Extension for Qlik Sense
+# LeapLytics Timeline – Extension for Qlik Sense
 
 ![Milestone View](docs/milestone-view.PNG)
 
